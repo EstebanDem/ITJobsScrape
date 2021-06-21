@@ -3,7 +3,7 @@
 
 I wanted to get all the job offers from the IT JOBS site so that later I could analyze them
 
-![IT Jobs List](https://s6.gifyu.com/images/itscrp.gif)
+![IT Jobs List](https://github.com/EstebanDem/ITJobsScrape/blob/main/itscrp.gif)
 
 
 
